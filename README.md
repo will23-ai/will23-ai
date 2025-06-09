@@ -1,9 +1,9 @@
 # 👋 Hi! I'm Wilkel  
 
-🌱 Currently learning **FlutterFlow and Back-end development**  
+🌱 Currently learning **React Native and Back-end development**  
 👨‍💻 I enjoy working with **HTML, CSS and JavaScript**  
 💡 Interested in **GitHub, AI and Figma**  
-📫 Contact me: wilkelmateo@gmail.com(mailto:youremail@example.com)  
+📫 Contact me: wilkelmateo@gmail.com
 
 ## 🚀 Technologies I use:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
