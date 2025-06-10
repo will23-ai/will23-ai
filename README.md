@@ -56,12 +56,12 @@ const wilkel = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wil123-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wil123-ai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=will123-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will123-ai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wil123-ai&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=will123-ai&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 ## 🎯 Proyectos Destacados
@@ -78,7 +78,7 @@ const wilkel = {
 ## 📈 Actividad de Desarrollo
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wil123-ai&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=will123-ai&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="GitHub Activity Graph"/>
 </div>
 
 ## 🎨 Intereses y Pasiones
@@ -109,7 +109,7 @@ mindmap
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilkelmateo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wil123-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/will123-ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilkelmateo)
 
 </div>
@@ -121,9 +121,10 @@ mindmap
   
   **"El código es poesía, y cada línea cuenta una historia"**
   
-  <img src="https://komarev.com/ghpvc/?username=wil123-ai&label=Visitantes&color=58a6ff&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=will123-ai&label=Visitantes&color=58a6ff&style=flat-square" alt="Profile views"/>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer"/>
+</div>//capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer"/>
 </div>
